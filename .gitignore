@@ -1,5 +1,6 @@
 ###Library in JMC###
 lib/
+JavaFxCSS/
 
 target/
 !.mvn/wrapper/maven-wrapper.jar
