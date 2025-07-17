@@ -1,0 +1,18 @@
+{
+"studentID":1,
+	"countryCode":"AU",
+	"enrolledMonth":2,
+	"enrolledYear":2023,
+	"ageAtEnrollment":22,
+	"gender":"U",
+	"previousProgrammingExperience":false
+
+"studentID":2,
+	"countryCode":"AU",
+	"enrolledMonth":6,
+	"enrolledYear":2016,
+	"ageAtEnrollment":48,
+	"gender":"M",
+	"previousProgrammingExperience":true
+
+}

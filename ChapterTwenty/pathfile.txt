@@ -1,0 +1,3 @@
+Here is some data
+for myfile just to prove
+using file class path is better

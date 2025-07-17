@@ -1,0 +1,8 @@
+The Pelton wheel or Pelton Turbine is an impulse-type water turbine invented by American inventor Lester
+Allan Pelton in the 1870s.[1][2] The Pelton wheel extracts energy from the impulse of moving water, as
+opposed to water's dead weight like the traditional overshot water wheel. Many earlier variations of
+impulse turbines existed, but they were less efficient than Pelton's design. Water leaving those wheels
+typically still had high speed, carrying away much of the dynamic energy brought to the wheels. Pelton's
+paddle geometry was designed so that when the rim ran at half the speed of the water jet, the water left
+the wheel with very little speed; thus his design extracted almost all of the water's impulse energy—
+which made for a very efficient turbine.
